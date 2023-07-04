@@ -12,6 +12,7 @@ Here put some data and HWs of BSP.
 
 ## [HW5 - Resample & FFT](HW/HW5/)
 
+## [HW6 - Foot of PPG](HW/HW5/)
 
 ## Tools
 
